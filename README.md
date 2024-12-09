@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-Hi there! I'm **Rajib Raju**, a passionate Laravel Web Developer with a strong interest in building scalable and efficient web applications. Here, you'll find my journey in web development, projects I've worked on, and my aspirations for future opportunities.
+Hi there! I'm **Md. Rajib Hossain**, a passionate Laravel Web Developer with a strong interest in building scalable and efficient web applications. Here, you'll find my journey in web development, projects I've worked on, and my aspirations for future opportunities.
 
 ---
 
