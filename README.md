@@ -10,6 +10,6 @@ Skills: PHP / Laravel / MySql / HTML / CSS/  Bootstrap / JS / jQuery
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raj5852)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhraju-devs)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=raj5852&show_icons=true) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rhraju-devsshow_icons=true) 
