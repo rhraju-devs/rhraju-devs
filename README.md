@@ -1,7 +1,7 @@
 # 👋 Md. Rajib Hossain
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Software+Engineer;Laravel+Specialist;API+%26+System+Architecture+Expert" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Software+Engineer;Laravel+Specialist;API+Integration+%26+System+Architecture;Real-Time+Systems+%26+Communication+Integrations" />
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 
 ## 🧑‍💻 Professional Summary
 
-Backend Software Engineer specializing in Laravel with strong experience in building scalable, production-ready systems. Focused on API design, integrations, and performance optimization.
+Backend Software Engineer specializing in Laravel, with hands-on experience building scalable, production-ready applications and integration-heavy systems. Strong background in REST API development, payment gateway integration, shipping and logistics APIs, communication platforms, and real-time features using Socket and Pusher.
 
 ---
 
@@ -41,16 +41,21 @@ Backend Software Engineer specializing in Laravel with strong experience in buil
 * REST API Architecture
 * Payment Gateway Integration
 * Third-Party API Integration
+* Shipping & Logistics API Integration
+* Real-Time Features with Socket / Pusher
+* Voice & Messaging API Integration
 * Backend Performance Optimization
 * SaaS & Marketplace Development
 
 ---
 
-## 🏆 Achievements
+## 🔌 Integration Experience
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rhraju-devs&show_icons=true&theme=transparent" />
-</p>
+* **Shipping & Logistics APIs:** UPS, FedEx, Pathao, Steadfast
+* **Communication APIs:** Telnyx Calling API, Telnyx Messaging API
+* **Real-Time Systems:** Socket integration, Pusher integration
+* **Notifications:** Email, SMS, Push Notifications
+* **Payments & Services:** Payment gateway and external service integrations
 
 ---
 
@@ -59,18 +64,22 @@ Backend Software Engineer specializing in Laravel with strong experience in buil
 **Software Developer — TheSoftKing Limited** *(2026 – Present)*
 
 * Develop and maintain scalable Laravel applications
-* Build reusable backend systems
-* Integrate APIs and payment gateways
+* Build reusable backend systems and service modules
+* Integrate APIs, payment gateways, and third-party platforms
+* Deliver production-ready features with focus on performance and maintainability
 
 **Software Developer — WStacks Limited** *(2022 – 2026)*
 
-* Built SaaS and marketplace platforms
-* Designed REST APIs and integrations
-* Managed production deployments
+* Built SaaS, marketplace, and service-based platforms
+* Designed REST APIs and backend integrations
+* Integrated logistics, messaging, and external APIs
+* Managed deployments and production environments
+* Implemented email, SMS, and push notification systems
 
 **Laravel Intern — Kodeeo Limited** *(2022)*
 
-* Built eCommerce platform with payment integration
+* Built an eCommerce platform with payment integration
+* Contributed to debugging, feature development, and code improvement
 
 ---
 
@@ -83,27 +92,27 @@ Multi-agency travel booking platform
 
 ### 🔹 MassAxis CRM
 
-CRM with communication & campaign tools
+CRM with communication, voice, SMS, and campaign management features
 🔗 *[MassAxis CRM](https://massaxis.com/)*
 
 ### 🔹 QuickPost
 
-Multi-platform Social Media Scheduler with AI Post & Image Generation
-🔗 *[Quickpost](https://codecanyon.net/item/quickpost-multiplatform-social-media-scheduler-with-ai-post-image-generation/60778632)*
+Multi-platform social media scheduler with AI post and image generation
+🔗 *[QuickPost](https://codecanyon.net/item/quickpost-multiplatform-social-media-scheduler-with-ai-post-image-generation/60778632)*
 
 ### 🔹 Ventura
 
-Ventura - Venture Capital And Startup Funding Platform
+Venture capital and startup funding platform
 🔗 *[Ventura](https://codecanyon.net/item/ventura-venture-capital-and-startup-funding-platform/62461007?s_rank=1)*
 
 ### 🔹 Yate
 
-Yate - Multivendor Boat/Yacht Booking Platform
+Multi-vendor boat and yacht booking platform
 🔗 *[Yate](https://codecanyon.net/item/yate-boatyacht-booking-platform/42646206?s_rank=51)*
 
 ### 🔹 Bid_Pin
 
-Bid_Pin - Multivendor Auction & Bidding Platform
+Multi-vendor auction and bidding platform
 🔗 *[Bid_Pin](https://codecanyon.net/item/bid_pin-multivendor-auction-bidding-platform/49000848?s_rank=36)*
 
 ---
@@ -117,18 +126,17 @@ Rangamati Science and Technology University
 
 ## 🤝 Connect With Me
 
-* 🔗 [Md. Rajib Hossain:](https://www.linkedin.com/in/rajibdevcraft/)
-* 📧 [Gmail:](mailto:rajibraju771@gmail.com)
+* 🔗 [LinkedIn](https://www.linkedin.com/in/rajibdevcraft/)
+* 📧 [Email](mailto:rajibraju771@gmail.com)
 
 ---
 
-⭐ *Building scalable backend systems with clean architecture and real-world impact.*
+⭐ *Building scalable backend systems with clean architecture, real-world integrations, and reliable production performance.*
 
 ---
 
-<!-- DARK / LIGHT MODE SUPPORT -->
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rhraju-devs&show_icons=true&theme=default#gh-light-mode-only" />
-  <img src="https://github-readme-stats.vercel.app/api?username=rhraju-devs&show_icons=true&theme=radical#gh-dark-mode-only" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rhraju-devs&show_icons=true&theme=transparent" />
 </p>
