@@ -46,19 +46,6 @@ Backend Software Engineer specializing in Laravel with strong experience in buil
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rhraju-devs&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhraju-devs&layout=compact&theme=radical" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rhraju-devs&theme=radical&hide_border=true" height="165"/>
-</p>
-
----
-
 ## 🏆 Achievements
 
 <p align="center">
