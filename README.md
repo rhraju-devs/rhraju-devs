@@ -49,7 +49,7 @@ Backend Software Engineer specializing in Laravel with strong experience in buil
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rhraju-devs&theme=flat&no-frame=true&margin-w=15&margin-h=15" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rhraju-devs&show_icons=true&theme=transparent" />
 </p>
 
 ---
