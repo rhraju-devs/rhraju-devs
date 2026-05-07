@@ -1,142 +1,165 @@
-# 👋 Md. Rajib Hossain
+# Md. Rajib Hossain
+
+**Full Stack Engineer · Laravel | PHP | JavaScript | ReactJS**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Software+Engineer;Laravel+Specialist;API+Integration+%26+System+Architecture;Real-Time+Systems+%26+Communication+Integrations" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Software+Engineer;Laravel+%7C+PHP+%7C+JavaScript+%7C+ReactJS;API+Architect+%26+Integration+Specialist;Real-Time+Systems+%26+SaaS+Platforms" alt="Typing SVG"/>
 </p>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=rhraju-devs&style=flat&color=blue">
-    <img src="https://komarev.com/ghpvc/?username=rhraju-devs&style=flat&color=blue" alt="Profile Views"/>
-  </a>
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rajibdevcraft/">
-    <img src="https://img.shields.io/badge/LinkedIn-rajibdevcraft-blue?style=flat&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-rajibdevcraft-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="mailto:rajibraju771@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-rajibraju771%40gmail.com-red?style=flat&logo=gmail" alt="Email"/>
+  </a>
+  <a href="https://github.com/rhraju-devs">
+    <img src="https://img.shields.io/badge/GitHub-rhraju--devs-181717?style=flat&logo=github" alt="GitHub"/>
   </a>
 </p>
-
----
-
-## 🧑‍💻 Professional Summary
-
-Backend Software Engineer specializing in Laravel, with hands-on experience building scalable, production-ready applications and integration-heavy systems. Strong background in REST API development, payment gateway integration, shipping and logistics APIs, communication platforms, and real-time features using Socket and Pusher.
-
----
-
-## ⚙️ Tech Stack
-
-**Languages:** PHP, JavaScript, SQL
-**Frameworks:** Laravel, jQuery, Bootstrap
-**Databases:** MySQL, SQLite
-**Tools:** Git, GitHub, Postman, Composer
-
----
-
-## 🚀 Core Expertise
-
-* REST API Architecture
-* Payment Gateway Integration
-* Third-Party API Integration
-* Shipping & Logistics API Integration
-* Real-Time Features with Socket / Pusher
-* Voice & Messaging API Integration
-* Backend Performance Optimization
-* SaaS & Marketplace Development
-
----
-
-## 🔌 Integration Experience
-
-* **Shipping & Logistics APIs:** UPS, FedEx, Pathao, Steadfast
-* **Communication APIs:** Telnyx Calling API, Telnyx Messaging API
-* **Real-Time Systems:** Socket integration, Pusher integration
-* **Notifications:** Email, SMS, Push Notifications
-* **Payments & Services:** Payment gateway and external service integrations
-
----
-
-## 💼 Experience
-
-**Software Developer — TheSoftKing Limited** *(2026 – Present)*
-
-* Develop and maintain scalable Laravel applications
-* Build reusable backend systems and service modules
-* Integrate APIs, payment gateways, and third-party platforms
-* Deliver production-ready features with focus on performance and maintainability
-
-**Software Developer — WStacks Limited** *(2022 – 2026)*
-
-* Built SaaS, marketplace, and service-based platforms
-* Designed REST APIs and backend integrations
-* Integrated logistics, messaging, and external APIs
-* Managed deployments and production environments
-* Implemented email, SMS, and push notification systems
-
-**Laravel Intern — Kodeeo Limited** *(2022)*
-
-* Built an eCommerce platform with payment integration
-* Contributed to debugging, feature development, and code improvement
-
----
-
-## 📂 Featured Projects
-
-### 🔹 Travela
-
-Multi-agency travel booking platform
-🔗 *[Travela](https://codecanyon.net/item/travela-multiagency-travel-booking-platform/58202964?srsltid=AfmBOopSQrX0EN2Ivynl81Kv7Wfynz9CMgUHZGpb2xya0MZ5-Y_mOlYd)*
-
-### 🔹 MassAxis CRM
-
-CRM with communication, voice, SMS, and campaign management features
-🔗 *[MassAxis CRM](https://massaxis.com/)*
-
-### 🔹 QuickPost
-
-Multi-platform social media scheduler with AI post and image generation
-🔗 *[QuickPost](https://codecanyon.net/item/quickpost-multiplatform-social-media-scheduler-with-ai-post-image-generation/60778632)*
-
-### 🔹 Ventura
-
-Venture capital and startup funding platform
-🔗 *[Ventura](https://codecanyon.net/item/ventura-venture-capital-and-startup-funding-platform/62461007?s_rank=1)*
-
-### 🔹 Yate
-
-Multi-vendor boat and yacht booking platform
-🔗 *[Yate](https://codecanyon.net/item/yate-boatyacht-booking-platform/42646206?s_rank=51)*
-
-### 🔹 Bid_Pin
-
-Multi-vendor auction and bidding platform
-🔗 *[Bid_Pin](https://codecanyon.net/item/bid_pin-multivendor-auction-bidding-platform/49000848?s_rank=36)*
-
----
-
-## 🎓 Education
-
-**B.Sc. in Computer Science & Engineering**
-Rangamati Science and Technology University
-
----
-
-## 🤝 Connect With Me
-
-* 🔗 [LinkedIn](https://www.linkedin.com/in/rajibdevcraft/)
-* 📧 [Email](mailto:rajibraju771@gmail.com)
-
----
-
-⭐ *Building scalable backend systems with clean architecture, real-world integrations, and reliable production performance.*
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rhraju-devs&show_icons=true&theme=transparent" />
+  <img src="https://ghstats1.netlify.app/.netlify/functions/github-stats?user=rhraju-devs&theme=github-dark" alt="GitHub Stats"/>
 </p>
+
+
+---
+
+## 👋 Who Am I?
+
+```js
+const me = {
+  name: "Md. Rajib Hossain",
+  title: "Full Stack Engineer",
+  focus: ["Laravel", "PHP", "JavaScript", "ReactJS", "API Architecture", "Real-Time Systems"],
+  experience: "4.5+ years",
+  location: "Bangladesh",
+  status: "Available for hire",
+  email: "rajibraju771@gmail.com",
+  linkedin: "linkedin.com/in/rajibdevcraft"
+};
+```
+
+---
+
+## 📌 At A Glance
+
+- **30+ Delivered Projects**
+- **100+ Client Projects**
+- **8+ SaaS Platforms**
+- **4.5+ Years Experience**
+- **Work Mode:** Remote / Hybrid / On-site
+
+---
+
+## 🛠️ Tech Stack & Integration Expertise
+
+### Backend & API Layer
+- PHP / Laravel
+- REST API design, versioning, rate limiting
+- API authentication & token-based systems
+- Service-oriented architecture
+- Queue workers & cron jobs
+
+### Frontend Layer
+- ReactJS
+- jQuery / AJAX
+- SSR / SPA application support
+- DOM scripting and UI integration
+
+### Database & Cache
+- MySQL
+- Redis
+- SQLite
+- Session store / caching
+- Query optimization
+
+### Real-Time Systems
+- Socket.io / Pusher
+- WebSocket-based low-latency connections
+- Bi-directional event flows
+- Presence and channel management
+
+### Payment & Fintech
+- Multi-gateway payment integration
+- Wallet systems, escrow, balance tracking
+- Subscription billing & recurring payments
+- Fraud detection & reconciliation
+
+### Shipping & Logistics
+- UPS, FedEx, domestic courier APIs
+- Shipment creation, tracking, rates
+- Invoice automation and order fulfillment
+
+### Communication & Notifications
+- Email, SMS, push notifications
+- Voice and transactional messaging
+- Webhooks and event-driven delivery
+
+### DevOps & Tooling
+- Git version control & branching
+- Docker containerization
+- Composer dependency management
+- Deployment and CI support
+
+---
+
+## 💼 Professional Experience
+
+### Software Engineer / Developer — The SoftKing Limited
+*Jan 2022 – Present*
+
+- Delivered full-cycle Laravel application development
+- Built reusable backend modules and service libraries
+- Designed secure REST APIs and integration workflows
+- Implemented payment gateways, messaging, and shipping systems
+- Managed deployments and production support
+
+### Software Developer — ICT Layer Ltd
+*2019 – 2021*
+
+- Developed SaaS and marketplace platforms
+- Integrated third-party APIs and payment services
+- Worked on data-driven dashboards and admin systems
+- Optimized backend logic for performance and scalability
+
+---
+
+## 🚀 Featured SaaS Projects
+
+- **Ecommerce** — Multi-vendor ecommerce platform
+- **MassAxis CRM** — CRM with voice, messaging and campaign automation
+- **QuickPost** — Multi-platform scheduling and AI content tools
+- **Ventura** — Startup funding and venture management
+- **Yate** — Boat and yacht booking marketplace
+- **Bid_Pin** — Multi-vendor auction system
+- **RapidLA** — Loan management and payment workflow platform
+- **CodeSilo** — Digital marketplace with subscription licensing
+
+---
+
+
+
+## 📩 Open to Opportunities
+
+Actively seeking full-time, remote, or contract roles in backend engineering, Laravel development, SaaS, and API-driven systems.
+
+- **Role:** Backend Engineer, Full Stack Developer, Laravel Specialist
+- **Focus:** Scalable architecture, real-time integrations, payment & logistics systems
+- **Ready for:** new projects, contract work, long-term collaboration
+
+---
+
+## 🤝 Connect With Me
+
+- LinkedIn: [rajibdevcraft](https://www.linkedin.com/in/rajibdevcraft/)
+- Email: [rajibraju771@gmail.com](mailto:rajibraju771@gmail.com)
+
+---
+
+> Building modern backend systems and SaaS platforms with clean architecture, production-ready integrations, and reliable delivery.
