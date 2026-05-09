@@ -1,6 +1,6 @@
 # Md. Rajib Hossain
 
-**Full Stack Engineer · Laravel | PHP | JavaScript | ReactJS**
+**Full Stack Engineer · Laravel | PHP | JavaScript**
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Software+Engineer;Laravel+%7C+PHP+%7C+JavaScript+%7C+ReactJS;API+Architect+%26+Integration+Specialist;Real-Time+Systems+%26+SaaS+Platforms" alt="Typing SVG"/>
@@ -47,15 +47,6 @@ const me = {
 
 ---
 
-## 📌 At A Glance
-
-- **30+ Delivered Projects**
-- **100+ Client Projects**
-- **8+ SaaS Platforms**
-- **4.5+ Years Experience**
-- **Work Mode:** Remote / Hybrid / On-site
-
----
 
 ## 🛠️ Tech Stack & Integration Expertise
 
@@ -67,7 +58,7 @@ const me = {
 - Queue workers & cron jobs
 
 ### Frontend Layer
-- ReactJS
+- Bootstrap / Custom CSS
 - jQuery / AJAX
 - SSR / SPA application support
 - DOM scripting and UI integration
