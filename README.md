@@ -126,11 +126,8 @@ const me = {
 - **Ecommerce** — Multi-vendor ecommerce platform
 - **MassAxis CRM** — CRM with voice, messaging and campaign automation
 - **QuickPost** — Multi-platform scheduling and AI content tools
-- **Ventura** — Startup funding and venture management
 - **Yate** — Boat and yacht booking marketplace
 - **Bid_Pin** — Multi-vendor auction system
-- **RapidLA** — Loan management and payment workflow platform
-- **CodeSilo** — Digital marketplace with subscription licensing
 
 ---
 
